@@ -1,4 +1,4 @@
-package com.sunmartech.smtleadsender.parser;
+package com.sunmartech.smtleadsender.ui.parser;
 
 import java.io.BufferedReader;
 import java.io.IOException;

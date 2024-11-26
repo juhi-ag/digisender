@@ -15,10 +15,10 @@ import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.sunmartech.smtleadsender.parser.FileParser;
-import com.sunmartech.smtleadsender.parser.FileParserFactory;
 import com.sunmartech.smtleadsender.ui.config.SmtLeadSenderUiPropertyConfig;
 import com.sunmartech.smtleadsender.ui.dao.SmtleadsenderUiDao;
+import com.sunmartech.smtleadsender.ui.parser.FileParser;
+import com.sunmartech.smtleadsender.ui.parser.FileParserFactory;
 import com.sunmartech.smtleadsender.ui.repository.ClientSmtleadsenderRepo;
 import com.sunmartech.smtleadsender.ui.schema.ClientSmtdatasource;
 import com.sunmartech.smtleadsender.ui.schema.ClientSmtleadsender;
