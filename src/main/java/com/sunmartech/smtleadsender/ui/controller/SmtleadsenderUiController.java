@@ -33,8 +33,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.sunmartech.smtleadsender.constants.SmtleadsenderConstants;
 import com.sunmartech.smtleadsender.ui.config.SmtLeadSenderUiPropertyConfig;
+import com.sunmartech.smtleadsender.ui.constants.SmtleadsenderConstants;
 import com.sunmartech.smtleadsender.ui.repository.ClientSmtleadsenderRepo;
 import com.sunmartech.smtleadsender.ui.schema.ClientSmtleadsender;
 import com.sunmartech.smtleadsender.ui.service.SmtleadsenderUiService;

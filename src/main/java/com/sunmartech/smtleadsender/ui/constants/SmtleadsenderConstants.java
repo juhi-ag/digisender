@@ -1,4 +1,4 @@
-package com.sunmartech.smtleadsender.constants;
+package com.sunmartech.smtleadsender.ui.constants;
 
 public final class SmtleadsenderConstants {
 
